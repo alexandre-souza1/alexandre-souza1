@@ -3,6 +3,7 @@
 
 <h3 align="left">// About me:</h3>
 <ul>
+  <li>Learned how to code in the best coding bootcamp, Le Wagon <a href="https://linkedin.com/in/https://www.linkedin.com/in/cleiston-alexandre-de-souza-amaral/" target="blank"> <img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" height="30" width="30" /></a> </li>
   <li>Passionate about tecnology, since my first IBM 20 years ago ⌨️ </li>
   <li>My hobbies include, single-player games 🕹 (the Witcher, Plague Tale and Spiritfarer are some of my favorites), Bikes 🚵🏽 and plants 🪴 </li>
   <li>COFFEEEEEE ☕️ </li>

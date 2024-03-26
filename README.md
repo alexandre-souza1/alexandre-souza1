@@ -3,7 +3,7 @@
 
 <h3 align="left">// About me:</h3>
 <ul>
-  <li>Learned how to code in the best coding bootcamp, Le Wagon <a href="https://linkedin.com/in/https://www.linkedin.com/in/cleiston-alexandre-de-souza-amaral/" target="blank"> <img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" height="30" width="30" /></a> </li>
+  <li>Learned how to code in the best coding bootcamp, Le Wagon <a href="https://linkedin.com/in/https://www.linkedin.com/in/cleiston-alexandre-de-souza-amaral/" target="blank"> <img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" height="10" width="10" /></a> </li>
   <li>Passionate about tecnology, since my first IBM 20 years ago ⌨️ </li>
   <li>My hobbies include, single-player games 🕹 (the Witcher, Plague Tale and Spiritfarer are some of my favorites), Bikes 🚵🏽 and plants 🪴 </li>
   <li>COFFEEEEEE ☕️ </li>
@@ -11,7 +11,7 @@
 
 <h3 align="left">// Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/cleiston-alexandre-de-souza-amaral/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cleiston-alexandre-de-souza-amaral/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/cleiston-alexandre-de-souza-amaral/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cleiston-alexandre-de-souza-amaral" height="30" width="40" /></a>
 </p>
 
 <h3 align="left"><a href="https://www.linkedin.com/in/cleiston-alexandre-de-souza-amaral/" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/D5612AQEGgFogiOMtTw/article-cover_image-shrink_720_1280/0/1687102860396?e=2147483647&v=beta&t=uWIcQ2E30bBn8xoI4zqEy7F0Ha6uuhuzMoErkI8JuBw" alt="bootstrap" width="120" height="120"/> </a></h3>  

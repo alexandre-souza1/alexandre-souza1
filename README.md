@@ -5,6 +5,7 @@
 <ul>
   <li>Passionate about tecnology, since my first IBM 20 years ago ⌨️ </li>
   <li>My hobbies include, single-player games 🕹 (the Witcher, Plague Tale and Spiritfarer are some of my favorites), Bikes 🚵🏽 and plants 🪴 </li>
+  <li>COFFEEEEEE ☕️ </li>
 </ul>
 
 <h3 align="left">// Connect with me:</h3>

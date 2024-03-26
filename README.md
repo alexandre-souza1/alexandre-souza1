@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Alexandre</h1>
 <h3 align="center">Full-Stack Dev 🧑‍💻 | Brazil</h3>
 
+<h3 align="left">// About me:</h3>
+<ul>
+  <li>Passionate about tecnology, since my first IBM 20 years ago ⌨️ </li>
+  <li>My hobbies include, single-player games 🕹 (the Witcher, Plague Tale and Spiritfarer are some of my favorites), Bikes 🚵🏽 and plants 🪴 </li>
+</ul>
+
 <h3 align="left">// Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/cleiston-alexandre-de-souza-amaral/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cleiston-alexandre-de-souza-amaral/" height="30" width="40" /></a>
